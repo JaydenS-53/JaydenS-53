@@ -6,7 +6,6 @@
 
 - 👨‍💻 My Portfolio is available at: [https://jaydensportfolio.netlify.app](https://jaydensportfolio.netlify.app)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
